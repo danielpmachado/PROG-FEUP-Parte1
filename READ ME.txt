@@ -1,0 +1,12 @@
+ 
+         | READ ME |
+
+Quando o programa é inicializado pede o nome dos ficheiros de clientes e de transações.
+Estes ficheiros devem encontrar-se dentro da pasta trabalho1.
+Para guardar informação o programa não altera estes ficheiros. 
+Em vez disso cria um novo ficheiro relativo a cada um dos ficheiros iniciais.
+Por exemplo para o ficheiro "clients1" é criado o ficheiro "out_clients1". 
+
+O programa não consegue tratar todos os inputs inválidos. 
+Não foi impletada a função relativa à publicidade.
+
